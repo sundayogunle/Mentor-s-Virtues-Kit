@@ -1,0 +1,9 @@
+{
+  "short_name": "Virtues Kit",
+  "name": "Mentor's Virtues Kit",
+  "description": "A 28-week virtue training plan for your child.",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#202A44",
+  "background_color": "#202A44"
+}
